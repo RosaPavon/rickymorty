@@ -18,7 +18,6 @@ function App() {
   },[url])
 
   
-
   if(loading){
     return <h2>Cargando....</h2>
   }else{
